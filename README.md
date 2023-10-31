@@ -23,9 +23,10 @@ workshops first.
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Recognize different forms of geospatial data and coordinate reference system (CRS).
+- Use `GeoPandas` and `matplotlib` libraries to map and analyze spatial data.
+- Apply more advanced Python libraries for interactive visualization.
+- Choose domain-specific spatial datasets to create your own maps. 
 
 This workshop does not cover the following:
 
