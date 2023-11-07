@@ -1,7 +1,6 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab Python Geospatial Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeiqingli%2FPython-Geospatial-Fundamentals-Pilot&branch=main&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab [WorkshopName] workshop. We
@@ -23,9 +22,10 @@ workshops first.
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Recognize different forms of geospatial data and coordinate reference system (CRS).
+- Use `GeoPandas` and `matplotlib` libraries to map and analyze spatial data.
+- Apply more advanced Python libraries for interactive visualization.
+- Choose domain-specific spatial datasets to create your own maps. 
 
 This workshop does not cover the following:
 
@@ -35,7 +35,7 @@ This workshop does not cover the following:
 
 ## Installation Instructions
 
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
+We will use Python to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
 
 1. This step(s) details software to download, with a link.
 2. Download these workshop materials:
@@ -51,7 +51,7 @@ workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeiqingli%2FPython-Geospatial-Fundamentals-Pilot&branch=main&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F)
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an RStudio instance on UC Berkeley's servers.
