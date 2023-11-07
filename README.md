@@ -1,7 +1,6 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab Python Geospatial Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeiqingli%2FPython-Geospatial-Fundamentals-Pilot&branch=main&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab [WorkshopName] workshop. We
