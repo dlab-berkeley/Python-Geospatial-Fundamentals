@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Regional Bike Facilities</title>
+                <onlink>https://services3.arcgis.com/i2dkYWmb4wHvYPda/arcgis/rest/services/regional_bike_facilities/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This data was used by the 511 BIkeMapper and covered the nine counties of the San Francisco Bay Region: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. The Metropolitan Transportation Commission (MTC) periodically collects bicycle facility data from cities and counties throughout the region. As new bikeways were added to the system, more cities and communities of the Bay Area came under the 511 BikeMapper coverage. This data set uses the following bike path classifications:Class I: Off-Street Shared-Use Path - A bikeway physically separated from motorized vehicular traffic by an open space or barrier. Pedestrians, skaters, wheelchair users, joggers, and other non-motorized users typically use shared-use paths.Class II: Bike Lane - Portion of the roadway that has been designated by striping, signing and pavement markings for the preferential or exclusive use of bicycles. Some cities and counties also define wide shoulders as bike lanes. Always ride about 4 feet from parked cars to avoid the door zone.Class III: On-Street Bike Route - Any road or street designated for bicycle travel. These routes are not for the exclusive use of cyclists. Often, routes include residential streets with low auto volumes and speeds.</abstract>
+            <purpose>Feature provide bicycle path classifications for the San Francisco Bay Region.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>transportation</themekey>
+                <themekey>bicycle</themekey>
+                <themekey>bike</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>This data is intended for planning purposes only. The Metropolitan Transportation Commission (MTC) provides spatial and attribute data (also referred to as &amp;quot;information&amp;quot;) &amp;quot;as-is,&amp;quot; and shall incur no responsibility or liability as to the completeness, currentness, or accuracy of this information. The MTC, and other agencies/cities/counties from which the data were sourced, assume no responsibility arising from use of this information by individuals, businesses, or other public entities. The data is provided with no warranty of any kind, expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Do not make any decisions based on this data before validating your decision with the appropriate city, county, or government entity.</useconst>
+        <datacred>Metropolitan Transportation Commission</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20210518</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
