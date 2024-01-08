@@ -13,7 +13,7 @@ recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
 In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
 we’ll explore [Aim2]. 
 
-_Only if necessary:_ If you are not familiar with material in
+If you are not familiar with material in
 [D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
 [AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
 workshops first.
@@ -44,9 +44,9 @@ We will use Python to go through the workshop materials, which requires installa
     * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
 
-## Is [Language] not Working on Your Computer?
+## Is Python not Working on Your Computer?
 
-If you do not have [Language] installed and the materials loaded on your
+If you do not have Python installed and the materials loaded on your
 workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
@@ -59,11 +59,11 @@ No installation is necessary from your end - you only need an internet browser
 and a CalNet ID to log in. By using the DataHub, you can save your work and come
 back to it at any time. When you want to return to your saved work, just go
 straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
+you click on the `Python-Geospatial-Fundamentals-Pilot` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meiqingli/Python-Geospatial-Fundamentals-Pilot/HEAD)
 
 By using this button, however, you cannot save your work.
 
