@@ -27,17 +27,12 @@ After this workshop, you will be able to:
 - Apply more advanced Python libraries for interactive visualization.
 - Choose domain-specific spatial datasets to create your own maps. 
 
-This workshop does not cover the following:
-
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
-
 
 ## Installation Instructions
 
-We will use Python to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
+Anaconda is a useful package management software that allows you to run Python and Jupyter notebooks very easily. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
 
-1. This step(s) details software to download, with a link.
+1. Download and install [Anaconda](https://www.anaconda.com/download). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 2. Download these workshop materials:
     * Click the green "Code" button in the top right of the repository information.
     * Click "Download Zip".
@@ -78,7 +73,7 @@ Additionally, provide instructions on how to run code once it’s open (running 
 
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
+Check out the following resources to learn more about Geospatial programming and analysis:
 
 * [Resource1](LinkToResource1): _Explain Resource 1_
 * [Resource2](LinkToResource2): _Explain Resource 2_
@@ -93,7 +88,7 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. Y
 
 # Other D-Lab [Language] Workshops
 
-Here are other [Language] workshops offered by the D-Lab:
+Here are other Python workshops offered by the D-Lab:
 
 ## Basic Competency
 
@@ -105,5 +100,4 @@ Here are other [Language] workshops offered by the D-Lab:
 
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+[Meiqing Li](https://meiqingli.com/)
