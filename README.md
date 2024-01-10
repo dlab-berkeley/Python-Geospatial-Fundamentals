@@ -4,19 +4,9 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab Python Geospatial Fundamental workshop. We
-recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
+recommend attending [Python Fundamentals](https://dlab.berkeley.edu/events/python-fundamentals-parts-1-3/2024-01-08),
+and [Introduction to Pandas](https://dlab.berkeley.edu/events/python-data-wrangling-and-manipulation-pandas/2023-08-17), prior to this workshop.
 
-## Workshop Goals
-
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
 
 ## Learning Objectives
 
@@ -75,10 +65,9 @@ Additionally, provide instructions on how to run code once it’s open (running 
 
 Check out the following resources to learn more about Geospatial programming and analysis:
 
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
-
+* [ArcGIS-Online-Fundamentals](https://github.com/dlab-berkeley/ArcGIS-Online-Fundamentals)
+* [Geospatial Fundamentals in QGIS] (https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS)
+* [R-Geospatial-Fudamentals](https://github.com/dlab-berkeley/R-Geospatial-Fundamentals)
 
 # About the UC Berkeley D-Lab
 
@@ -92,12 +81,16 @@ Here are other Python workshops offered by the D-Lab:
 
 ## Basic Competency
 
-**Provide a list of workshops here.**
+* [Python Fundamentals](https://github.com/dlab-berkeley/python-fundamentals)
+* [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
 
 ## Intermediate/Advanced Competency
 
-**Provide a list of workshops here.**
+* [Computational Text Analysis in Python](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
+* [Introduction to Machine Learning in Python](https://github.com/dlab-berkeley/python-machine-learning)
+* [Introduction to Artificial Neural Networks in Python](https://github.com/dlab-berkeley/ANN-Fundamentals)
+* [Fairness and Bias in Machine Learning](https://github.com/dlab-berkeley/fairML)
 
 # Contributors
 
-[Meiqing Li](https://meiqingli.com/)
+* [Meiqing Li](https://meiqingli.com/)
