@@ -66,7 +66,7 @@ Additionally, provide instructions on how to run code once it’s open (running 
 Check out the following resources to learn more about Geospatial programming and analysis:
 
 * [ArcGIS-Online-Fundamentals](https://github.com/dlab-berkeley/ArcGIS-Online-Fundamentals)
-* [Geospatial Fundamentals in QGIS] (https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS)
+* [Geospatial Fundamentals in QGIS](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS)
 * [R-Geospatial-Fudamentals](https://github.com/dlab-berkeley/R-Geospatial-Fundamentals)
 
 # About the UC Berkeley D-Lab
