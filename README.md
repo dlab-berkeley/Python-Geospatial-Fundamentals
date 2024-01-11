@@ -1,6 +1,6 @@
 # D-Lab Python Geospatial Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeiqingli%2FPython-Geospatial-Fundamentals-Pilot&branch=main&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Geospatial-Fundamentals-Pilot&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F&branch=main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab Python Geospatial Fundamental workshop. We
@@ -36,7 +36,7 @@ workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeiqingli%2FPython-Geospatial-Fundamentals-Pilot&branch=main&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Geospatial-Fundamentals-Pilot&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F&branch=main)
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an RStudio instance on UC Berkeley's servers.
@@ -48,7 +48,7 @@ you click on the `Python-Geospatial-Fundamentals-Pilot` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meiqingli/Python-Geospatial-Fundamentals-Pilot/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Geospatial-Fundamentals-Pilot/HEAD)
 
 By using this button, however, you cannot save your work.
 
