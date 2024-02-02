@@ -5,8 +5,8 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab Python Geospatial Fundamental workshop. We
-recommend attending [Python Fundamentals](https://dlab.berkeley.edu/events/python-fundamentals-parts-1-3/2024-01-08),
-and [Introduction to Pandas](https://dlab.berkeley.edu/events/python-data-wrangling-and-manipulation-pandas/2023-08-17), prior to this workshop.
+recommend attending [Python Fundamentals](https://dlab.berkeley.edu/events/python-fundamentals-parts-1-3/2024-01-08)
+and [Python Data Wrangling](https://dlab.berkeley.edu/events/python-data-wrangling-and-manipulation-pandas/2023-08-17) prior to this workshop.
 
 
 ## Learning Objectives
