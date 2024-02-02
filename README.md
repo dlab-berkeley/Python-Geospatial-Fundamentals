@@ -1,6 +1,6 @@
 # D-Lab Python Geospatial Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Geospatial-Fundamentals-Pilot&urlpath=tree%2FPython-Geospatial-Fundamentals-Pilot%2F&branch=main)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Geospatial-Fundamentals&urlpath=tree%2FPython-Geospatial-Fundamentals%2F&branch=main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab Python Geospatial Fundamental workshop. We
