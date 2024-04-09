@@ -11,6 +11,8 @@ This repository contains the materials for D-Lab Python Geospatial Fundamental w
 We recommend attending [Python Fundamentals](https://dlab.berkeley.edu/events/python-fundamentals-parts-1-3/2024-01-08)
 and [Python Data Wrangling](https://dlab.berkeley.edu/events/python-data-wrangling-and-manipulation-pandas/2023-08-17) prior to this workshop.
 
+Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+
 ## Learning Objectives
 
 After this workshop, you will be able to:
