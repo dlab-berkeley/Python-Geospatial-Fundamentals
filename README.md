@@ -6,7 +6,7 @@
 
 This repository contains the materials for D-Lab's Python Geospatial Fundamental workshop. 
 
-### Prerequisites
+## Prerequisites
 
 We recommend attending [Python Fundamentals](https://dlab.berkeley.edu/events/python-fundamentals-parts-1-3/2024-01-08)
 and [Python Data Wrangling](https://dlab.berkeley.edu/events/python-data-wrangling-and-manipulation-pandas/2023-08-17) prior to this workshop.
@@ -99,4 +99,5 @@ Here are other Python workshops offered by the D-Lab:
 # Contributors
 
 * [Meiqing Li](https://meiqingli.com/)
+
 
